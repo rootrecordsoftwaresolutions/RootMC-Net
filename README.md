@@ -1,34 +1,13 @@
-# RootMC Net
+# RootMC-Net
 
-Vercel project for **rootmc.net**.
+> **Personal-account working copy.** Canonical ops authority is the **org**.
 
-Blank Next.js (App Router) template — ready to build on.
+> **Authority:** [RootRecord-Software-Solutions](https://github.com/RootRecord-Software-Solutions)  
+> **Docs index:** [MIGRATION-DOCS-INDEX](https://github.com/RootRecord-Software-Solutions/RootRecord-Library/blob/main/Documentation/00-architecture/MIGRATION-DOCS-INDEX-2026-09-28.md)  
+> **Product / archive catalog:** [Product-Archive-Repo-Catalog](https://github.com/RootRecord-Software-Solutions/RootRecord-Library/blob/main/Documentation/00-architecture/Product-Archive-Repo-Catalog-2026-09-28.md)  
+> **Live Pacific:** [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server)  
+> **Library:** [RootRecord-Library](https://github.com/RootRecord-Software-Solutions/RootRecord-Library)
 
-## Stack
+rootmc.net HTML surface. Product track **E**.
 
-- Next.js 15 (App Router)
-- React 19
-- TypeScript
-
-## Local development
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-## Vercel
-
-Import this repository as its own Vercel project.
-
-- Framework preset: **Next.js**
-- Root directory: repository root
-- Keep secrets in Vercel environment variables (never commit them)
-
-Long-running processing does **not** belong in this repo.
-
-## Scope
-
-This repo owns the RootMC public web experience, landing pages, community discovery, and frontend integrations with documented RootMC APIs.
+*Transition banner 2026-09-28 HST.*
